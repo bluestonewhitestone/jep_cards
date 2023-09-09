@@ -1,5 +1,6 @@
-:dart: # jep_cards
+# jep_cards
 
+:dart:
 This is a portfolio project that allows users to study past Jeopardy clues and answers. 
 
 CSV file directly downloaded from: https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions?resource=download
